@@ -1,0 +1,9 @@
+aiogram==3.7.0
+python-dotenv==1.0.1
+aiohttp==3.9.5
+websockets==12.0
+requests==2.32.3
+solana==0.34.2
+solders==0.21.0
+base58==2.1.1
+snscrape==0.7.0.20230622
